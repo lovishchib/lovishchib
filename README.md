@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lovishchib
-- 👀 I’m interested in Making frontend applications.
+- 👀 I’m interested in making web applications.
 - 🌱 I’m currently learning Svelte and Golang
-- 💞️ I’m looking to collaborate on any frontent cool stuff
+- 💞️ I’m looking to collaborate on any frontend cool stuff
 - 📫 How to reach me : drop me a mail on lovishchib@outlook.com
 
 <!---
